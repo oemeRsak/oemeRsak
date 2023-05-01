@@ -1,6 +1,9 @@
 # 💫 About Me:
- **I'm from Turkey(&#127481;&#127479;) but I live in Germany(&#127465;&#127466;).** <br>**I'm interested in Cyber Security, Coding and Hacking.**
-
+ **I'm from Turkey(&#127481;&#127479;) but I live in Germany(&#127465;&#127466;).** <br>
+ **I'm interested in Cyber Security, Coding and Hacking.** <br> 
+ **My main language is Python but I'm learning Golang too.** <br>
+ **My main goal is to constantly improve myself and learn new things.** <br>
+<br><br>
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
