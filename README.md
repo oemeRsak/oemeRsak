@@ -1,8 +1,9 @@
 # 💫 About Me:
- **I'm from Turkey(&#127481;&#127479;) but I live in Germany(&#127465;&#127466;).** <br>
- **I'm interested in Cyber Security, Coding and Hacking.** <br> 
- **My main language is Python but I'm learning Golang too.** <br>
- **My main goal is to constantly improve myself and learn new things.** <br>
+
+I was born in **Turkey(&#x1F1F9;&#x1F1F7;)** and am currently residing in **Germany(&#x1F1E9;&#x1F1EA;)**. Ever since I was young, I have been fascinated by **computers**. I learned the **basics of programming** in elementary school and began working on **Arduino projects** in middle school. Later, I acquired skills in **Python** and have been working to improve my proficiency in this language. Over the past few years, I have developed a big interest in **Cybersecurity** and **Penetration Testing**, and have been honing my skills in these areas. In addition to pursuing my passion for Penetration Testing, I am also learning **Golang** and occasionally enjoy designing amateur 3D models.
+
+My ultimate goal is to continuously advance my knowledge and expertise, recognizing that there is always room for improvement. I am confident that my curiosity and enthusiasm for technology will continue to motivate me in my career.
+
 <br><br>
 
 # 💻 Tech Stack:
