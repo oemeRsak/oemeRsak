@@ -13,7 +13,7 @@ My ultimate goal is to continuously advance my knowledge and expertise, recogniz
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kafalar-karisik&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kafalar-karisik&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kafalar-karisik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Kafalar-Karisik.github.io)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kafalar-karisik&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Kafalar-Karisik.github.io&hide=svelte)
 <br><br>
 
 <br><br>
