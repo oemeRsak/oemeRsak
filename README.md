@@ -1,6 +1,10 @@
 # 💫 About Me:
 
-I was born in **Turkey(&#x1F1F9;&#x1F1F7;)** and am currently residing in **Germany(&#x1F1E9;&#x1F1EA;)**. Ever since I was young, I have been fascinated by **computers**. I learned the **basics of programming** in elementary school and began working on **Arduino projects** in middle school. Later, I acquired skills in **Python** and have been working to improve my proficiency in this language. Over the past few years, I have developed a big interest in **Cybersecurity** and **Penetration Testing**, and have been honing my skills in these areas. In addition to pursuing my passion for Penetration Testing, I am also learning **Golang** and occasionally enjoy designing amateur 3D models.
+I was born in **Turkey** 🇹🇷 and now I live in **Germany** 🇩🇪. I've always been really into **computers**. I started learning about **programming** when I was in elementary school, and in middle school, I got into **Arduino projects**. Later on, I got into **Python** and have been trying to get better at it. Recently, I've become really interested in **Cybersecurity** and **Penetration Testing**.
+
+I was born in **Turkey** 🇹🇷, and I currently live in **Germany** 🇩🇪. Ever since I was young, I've been really interested in **computers**. I started learning the basics of **programming** when I was in primary school and began working on **Arduino** projects when I was in secondary school. Later, I gained skills in **Python** and have been working to get better at it. In recent years, I've developed a strong interest in **Cybersecurity** and **Penetration Testing**, and I've been working on improving my skills in these areas. I'm also learning **Golang** and sometimes enjoy designing basic 3D models as a hobby.
+
+
 
 My ultimate goal is to continuously advance my knowledge and expertise, recognizing that there is always room for improvement. I am confident that my curiosity and enthusiasm for technology will continue to motivate me in my career.
 
