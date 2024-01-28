@@ -16,9 +16,3 @@ My ultimate goal is to continuously advance my knowledge. There is always someth
 ## Learning 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![VUE.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <br><br>
-
-
-![](https://visitcount.itsvg.in/api?id=kafalar-karisik&icon=2&color=6)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
