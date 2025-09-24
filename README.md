@@ -10,9 +10,6 @@ There is always something to Learn.
 ![](https://nirzak-streak-stats.vercel.app/?user=oemeRsak&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oemeRsak&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oemeRsak&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 ![](https://komarev.com/ghpvc/?username=oemeRsak&style=for-the-badge)
 
