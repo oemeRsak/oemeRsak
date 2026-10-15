@@ -1,25 +1,63 @@
-# 💫 About Me:
-Ever since I was young, I've been really interested in computers. I started learning the basics of programming when I was in primary school and began working on Arduino projects when I was in secondary school. Later, I learned Python and have been working to get better at it. Now I have a strong interest in backend development and infotronics. Currently I'm learning a few things, such as Django, and sometimes enjoy designing and printing simple 3D models as a hobby.
+# Ömer Rasim Sak
 
-My ultimate goal is to continuously advance my knowledge. There is always something to learn.
-<br><br>
-There is always something to Learn.
+**Student and hobby developer — learning by making**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
+> Making things to understand them.
 
----
+I'm Ömer, a student at a Technisches Gymnasium in Germany. I like taking a
+problem apart, understanding how it works, and putting it back together in my
+own way.
 
-<a href="https://heatmap.shymike.dev?id=21648&timezone=Europe%2FBerlin&labels=true&standalone=true" title="Click to view detailed data for each day!">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=21648&timezone=Europe%2FBerlin&labels=true&theme=dark">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=21648&timezone=Europe%2FBerlin&labels=true&theme=light">
-    </picture>
-</a>
+I learn by building, breaking, and trying again — mostly through backend
+development, electronics, and small hobby projects.
 
-<!--I am gonna add something. But no clue...-->
+[Website](https://oemersak.me) · [GitHub](https://github.com/oemeRsak) ·
+[Email](mailto:contact@oemeRsak.me)
 
+## Currently exploring
 
-![](https://komarev.com/ghpvc/?username=oemeRsak&style=for-the-badge)
+- Backend systems with **Python** and **Django**
+- **Infotronics** — the meeting point between information technology and
+  electronics
+- Electronics projects, including Arduino and PCB design
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Tools and technologies
+
+- **Backend:** Python, Django
+- **Web:** web applications, databases
+- **Hardware:** Arduino, electronics, PCB design
+
+## Selected work
+
+### [OpenStadtBank](https://github.com/oemeRsak/OpenStadtBank)
+
+An open-source banking app for a children's holiday program. This Django
+rewrite was an opportunity to practise structuring a larger project, writing
+documentation, and making a complex idea approachable.
+
+`Python` `Django` `Open source`
+
+### [StadtBank](https://github.com/oemeRsak/StadtBank)
+
+An earlier practical experiment in building a bank system with a web
+interface, a database, and the fundamentals of Django.
+
+`Python` `Django` `Web`
+
+### Weather Station
+
+A small weather station built during an internship week to learn PCB design,
+sensor integration, and controller programming.
+
+`Private project` `Arduino` `Electronics` `PCB design`
+
+## A little more
+
+Most of this started as a hobby. I'm still learning the fundamentals and
+finding out what I enjoy building, with the goal of continuously expanding my
+knowledge.
+
+## Say hello
+
+If you'd like to get in touch, [send me an email](mailto:contact@oemersak.me) or
+visit [oemersak.me](https://oemersak.me).
